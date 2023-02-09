@@ -5,7 +5,7 @@ import pandas as pd
 from selenium.webdriver.common.by import By
 import regex as re
 import os
-import webscrape_yelp23 as wbs
+import webscrape_yelp as wbs
 from csv import writer
 from datetime import date
 
